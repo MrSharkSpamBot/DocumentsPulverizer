@@ -18,7 +18,7 @@ $ pip3 install -r requirements.txt
 ```
 
 ## Usage
-This payload can run on Linux, Windows, and MacOs. No configuration is needed.
+This payload can run on Linux, Windows, and MacOs. No configuration is needed just run it. Although I would highly advise you not to run it on your system cause if you do u can kiss your documents goodbye.
 
 ## Compilation
 ```
