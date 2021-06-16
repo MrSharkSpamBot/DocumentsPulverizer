@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-A full fledged payload written in pure python3 that deletes all documents.
+A full fledged payload that deletes all documents.
 
 @author: Mr. Shark Spam Bot
 """
