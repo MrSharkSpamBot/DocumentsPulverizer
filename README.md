@@ -1,19 +1,19 @@
-# Shadow Shark Documents Deleter
+# Documents Pulverizer
 A full fledged payload written in pure python3 that deletes all documents.
 
 ## Installation
 ### Debian
 ```
 $ sudo apt-get install python3 python3-pip git
-$ git clone https://github.com/MrSharkSpamBot/ShadowSharkDocumentsDeleter.git
-$ cd ShadowSharkIdentityHarvester/
+$ git clone https://github.com/MrSharkSpamBot/DocumentsPulverizer.git
+$ cd DocumentsPulverizer/
 $ pip3 install -r requirements.txt
 ```
 ### Arch
 ```
 $ sudo pacman -S python python-pip git
-$ git clone https://github.com/MrSharkSpamBot/ShadowSharkDocumentsDeleter.git
-$ cd ShadowSharkIdentityHarvester/
+$ git clone https://github.com/MrSharkSpamBot/DocumentsPulverizer.git
+$ cd DocumentsPulverizer/
 $ pip3 install -r requirements.txt
 ```
 
@@ -22,5 +22,5 @@ This payload can run on Linux, Windows, and MacOS. No configuration is needed ju
 
 ## Compilation
 ```
-pyinstaller --onefile --noconsole --icon icon.ico ShadowSharkDocumentsDeleter.py
+pyinstaller --onefile --noconsole --icon icon.ico DocumentsPulverizer.py
 ```
